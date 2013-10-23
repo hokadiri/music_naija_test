@@ -6,10 +6,10 @@
         id        = "com.kadiri.hussein"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Test Naija</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        testing naija testing
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
